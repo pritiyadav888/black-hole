@@ -19,7 +19,12 @@
     "@angular/platform-browser": "~11.2.5",
     "@angular/platform-browser-dynamic": "~11.2.5",
     "@angular/router": "~11.2.5",
+    "bootstrap": "^3.4.1",
     "rxjs": "~6.6.0",
+    "survey-angular": "^1.8.36",
+    "survey-creator": "^1.8.36",
+    "survey-pdf": "^1.8.36",
+    "surveyjs-widgets": "^1.8.36",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
   },
