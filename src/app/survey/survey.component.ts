@@ -7,5 +7,8 @@ import { Component } from '@angular/core';
   })
   export class SurveyComponent {
     title = 'black-hole';
+    constructor(){
+      
+    }
   }
   
