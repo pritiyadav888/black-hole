@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
     selector: 'survey',
-    templateUrl: './survey.component.html',
+    template: './survey.component.html',
     styleUrls: ['./survey.component.css']
   })
   export class SurveyComponent {
